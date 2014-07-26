@@ -12,6 +12,16 @@
           "role": "mainHtml"
         }
       ]
+    },
+    "sample2": {
+      "id": "sample2",
+      "files": [
+        {
+          "name": "test.html",
+          "mode": "html",
+          "role": "mainHtml"
+        }
+      ]
     }
   }
 }
